@@ -46,7 +46,7 @@ $(function() {
             this.echo('\n')
         } else if (command == 'getskills') {
             this.echo('<h5 class="mt-3">Programming Skills</h5>',{raw:true})
-            this.echo('</br>These are my programming skills presented using a bar where <span style="text-decoration:underline;color:#ffff00">yellow means familiar</span>, and <span style="text-decoration:underline;color:#005203">dark green means "really good".</span> Take into consideration that this is "my view" on how skilled I am in the different languages.</br></br>',{raw:true})
+            this.echo('</br>These are my programming skills presented using a bar where <span style="text-decoration:underline;color:#bbbb03">yellow means familiar</span>, and <span style="text-decoration:underline;color:#005203">dark green means "really good".</span> Take into consideration that this is "my view" on how skilled I am in the different languages.</br></br>',{raw:true})
             sortData(mySkills,'level', false);
             for (var i = 0; i < mySkills.length; i++) {
                 var lang = mySkills[i]['language']
