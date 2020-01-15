@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "title": "Wordpress Blog",
+            "description": "at the organisation <b>Sveriges Annonsörer</b>. Bought a theme but did a lot of adjustments to the code to fit the vision of my coworkers.",
+            "imgs": [
+                {
+                    "src": "pics/portfolio/SA_Blog1.png",
+                    "descr": "Wordpress blog - Frontpage of the blog."
+                },
+                {
+                    "src": "pics/portfolio/SA_Blog2.png",
+                    "descr": "Wordpress blog - Frontpage of the blog."
+                }
+            ]
+        },
+        {
+            "title": "Book-tracking site",
+            "description": "Hobby project. Wanted to track my reading of books so I decided to build myself a web-based tool using Django.",
+            "imgs": [
+                {
+                    "src": "pics/portfolio/BS-0.png",
+                    "descr": "Main tracking page - Reading history, currently reading and 'wishlist'."
+                },
+                {
+                    "src": "pics/portfolio/BS-1.png",
+                    "descr": "Book View - Book details, review and possibility to add to personally created lists."
+                },
+                {
+                    "src": "pics/portfolio/BS-2.png",
+                    "descr": "Profile view - Shows reading history of profile and other information of user."
+                },
+                {
+                    "src": "pics/portfolio/BS-3.png",
+                    "descr": "Lists view - Shows all the lists that a user has created, whether they're public or not and books they contain."
+                }
+            ]
+        },
+        {
+            "title": "HomeControl",
+            "description": "Hobby project. Displaying temperature and humidity from sensors at my family home. Built using Django.",
+            "imgs": [
+                {
+                    "src": "pics/portfolio/HC-1.png",
+                    "descr": "Startpage - Showing current temperatures and humidity levels."
+                },
+                {
+                    "src": "pics/portfolio/HC-2.png",
+                    "descr": "Graph view of one of the sensors.[Weekly-view]"
+                },
+                {
+                    "src": "pics/portfolio/HC-3.png",
+                    "descr": "Graph view of one of the sensors. [Daily-view]"
+                }
+            ]
+        }
+    ]
+}

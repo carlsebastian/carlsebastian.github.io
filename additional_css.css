@@ -1,0 +1,21 @@
+.custom-bg-color {
+    background-color: rgb(238, 238, 238);
+}
+
+html,body {
+    height: 100vh;
+    /* overflow: hidden; */
+    width: 100%;
+}
+
+.h-90 {
+    height: 90%;
+}
+
+.terminal {
+    --color: rgba(40, 32, 84, 0.99);
+    --background: white;
+    max-height:100vh;
+}
+
+.hh-100 {}

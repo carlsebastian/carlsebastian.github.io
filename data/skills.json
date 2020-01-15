@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "language": "Python",
+      "level": "4"
+    },
+    {
+      "language": "Javascript & Typescript",
+      "level": "3"
+    },
+    {
+      "language": "C#",
+      "level": "3"
+    },
+    {
+      "language": "C",
+      "level": "2"
+    },
+    {
+      "language": "Java",
+      "level": "3"
+    },
+    {
+      "language": "React, Redux",
+      "level": "2"
+    },
+    {
+      "language": "PHP",
+      "level": "3"
+    },
+    {
+      "language": "SQL",
+      "level": "3"
+    },
+    {
+      "language": "Django",
+      "level": "3"
+    },
+    {
+      "language": "C++",
+      "level": "3"
+    }
+
+  ]
+}
