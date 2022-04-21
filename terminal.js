@@ -41,7 +41,7 @@ $(function() {
         } else if (command == 'getcv') {
             this.echo('<h5 class="mt-3">My Curriculum Vitae</h5>',{raw:true})
             this.echo('\nGet my CV:')
-            this.echo('Download in English 🇬🇧: <a href="cvs/cv-sebastian-gustafsson-2020-eng.pdf" download>Download</a>', {raw:true});
+            this.echo('Download in English 🇬🇧: <a href="cvs/cv-sebastian-gustafsson-eng.pdf" download>Download</a>', {raw:true});
             this.echo('\n')
         } else if (command == 'getskills') {
             this.echo('<h5 class="mt-3">Programming Skills</h5>',{raw:true})
